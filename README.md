@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sergey-samoylov
+- 👋 Hi, I’m Sergey Samoylov
 - 👀 I’m interested in Python, SQL, GNU/Linux, bash-scripting
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Yandex.Practicum projects
