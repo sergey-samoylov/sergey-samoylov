@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sergey Samoylov - software developer
 - 👀 Interested in Python, SQL, GNU/Linux, bash-scripting projects
 - 🌱 Currently perfecting skills @ Python, Django, Angular
-- 💞️ Yandex.Practicum graduate
+- 💞️ Yandex.Practicum graduate (headman of the legendary 46th cohort)
 - 🥇 Went through all the course in pure Vim (no plugins)
 - 📫 How to reach me linews@yandex.ru
 - 🛩️ https://t.me/SergeySamoylov73
