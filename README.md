@@ -26,7 +26,7 @@
 
 [![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-464646?style=for-the-badge&logo=Yandex.Cloud&logoColor=FFFFF&color=692784)](https://cloud.yandex.ru/)
 
-[![Codewars badge](https://www.codewars.com/users/sergey-samoylov/badges/large)
+[![image](https://www.codewars.com/users/sergey-samoylov/badges/large)
 
 <!---
 sergey-samoylov/sergey-samoylov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
