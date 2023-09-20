@@ -25,6 +25,9 @@
 [![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646?style=for-the-badge&logo=GitHub%20actions&logoColor=FFFFF&color=692784)](https://github.com/features/actions)
 
 [![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-464646?style=for-the-badge&logo=Yandex.Cloud&logoColor=FFFFF&color=692784)](https://cloud.yandex.ru/)
+
+https://www.codewars.com/users/sergey-samoylov/badges/large
+
 <!---
 sergey-samoylov/sergey-samoylov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
